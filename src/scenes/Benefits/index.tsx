@@ -89,7 +89,7 @@ function Benefits({ setSelectedPage }: Props) {
           })}
         </motion.div>
         {/* GRAPHICS AND DESCRIPTION */}
-        <div className="flex mt-16 items-center justify-between gap-20 md:mt-28 md:flex">
+        <div className="flex mt-16 items-center justify-between gap-20 md:mt-28 flex-col md:flex ">
           {/* GRAPHIC */}
           <img
             src={benefitsPageGraphic}

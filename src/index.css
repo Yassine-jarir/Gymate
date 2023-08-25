@@ -12,3 +12,8 @@ body,
   font-family: "DM Sans", sans-serif;
   @apply text-gray-500;
 }
+.carousel{
+  cursor: grab;
+  background: rgba(246, 246, 246, 0.47);
+  border-radius: 12px;
+}

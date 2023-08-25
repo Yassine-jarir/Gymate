@@ -3,10 +3,11 @@ import { useState, useEffect } from "react";
 import { SelectedPage } from "./Shared/Types";
 import Home from "./scenes/Home";
 import Benefits from "./scenes/Benefits";
+import OurClasses from "./scenes/Ourclasses";
 
 function App() {
   const [selectedPage, setSelectedPage] = useState<SelectedPage>(
-    SelectedPage.Benefits
+    SelectedPage.Home
   );
   const [isTopPage, setisTopPage] = useState<boolean>(true);
   useEffect(() => {
@@ -29,6 +30,7 @@ function App() {
       />
       <Home setSelectedPage={setSelectedPage} />
       <Benefits setSelectedPage={setSelectedPage} />
+      <OurClasses setSelectedPage={setSelectedPage} />
     </div>
   );
 }

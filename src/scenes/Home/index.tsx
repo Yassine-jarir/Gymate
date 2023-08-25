@@ -18,7 +18,7 @@ function Home({ setSelectedPage }: Props) {
 
   return (
     <section
-      id="home"
+      id="Home"
       className="gap-16 bg-gray-20 pb-0 py-10 md:h-full md:pb-0"
     >
       {/* IMAGE AND MAIN HEADER */}
