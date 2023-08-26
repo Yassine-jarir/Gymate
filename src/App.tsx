@@ -4,6 +4,7 @@ import { SelectedPage } from "./Shared/Types";
 import Home from "./scenes/Home";
 import Benefits from "./scenes/Benefits";
 import OurClasses from "./scenes/Ourclasses";
+import Contactus from "./Contactus";
 
 function App() {
   const [selectedPage, setSelectedPage] = useState<SelectedPage>(
@@ -31,6 +32,7 @@ function App() {
       <Home setSelectedPage={setSelectedPage} />
       <Benefits setSelectedPage={setSelectedPage} />
       <OurClasses setSelectedPage={setSelectedPage} />
+      <Contactus setSelectedPage={setSelectedPage} />
     </div>
   );
 }
