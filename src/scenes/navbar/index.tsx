@@ -16,12 +16,14 @@ const Navbar = ({ isTopPage, selectedPage, setSelectedPage }: Props) => {
   const flexBetween = "flex items-center justify-between";
   const isaboveMediumscreens = useMediaQuery("(min-width:1060px)");
   const [isMenuToggle, setisMenutoggled] = useState<boolean>(false);
-  const navbarBackground = isTopPage ? "" : "bg-primary-100 drop-shadow";
+  const navbarBackground = isTopPage
+    ? " py-6"
+    : "bg-navbar py-4 transition-all duration-500 drop-shadow ";
 
   return (
     <nav>
       <div
-        className={`${navbarBackground} ${flexBetween} fixed top-0 z-30 w-full py-6`}
+        className={`${navbarBackground} ${flexBetween} fixed top-0 z-30 w-full`}
       >
         <div className={`${flexBetween} mx-auto w-5/6`}>
           <div className={`${flexBetween} w-full gap-16`}>
@@ -42,12 +44,12 @@ const Navbar = ({ isTopPage, selectedPage, setSelectedPage }: Props) => {
                     setSelectedPage={setSelectedPage}
                   />
                   <Link
-                    page="Our classes"
+                    page="ourclasses"
                     selectedPage={selectedPage}
                     setSelectedPage={setSelectedPage}
                   />
                   <Link
-                    page="Contact Us"
+                    page="contactus"
                     selectedPage={selectedPage}
                     setSelectedPage={setSelectedPage}
                   />

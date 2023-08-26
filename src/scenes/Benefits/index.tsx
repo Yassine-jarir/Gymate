@@ -8,7 +8,9 @@ import {
 import { motion } from "framer-motion";
 import Benefit from "./Benefit";
 import ActionBtn from "@/Shared/ActionBtn";
-import benefitsPageGraphic from "@/assets/BenefitsPageGraphic.png";
+// import benefitsPageGraphic from "@/assets/BenefitsPageGraphic.png";
+
+import HomePageGraphic from "@/assets/HomePageGraphic.png";
 
 const container = {
   hidden: {},
@@ -92,7 +94,7 @@ function Benefits({ setSelectedPage }: Props) {
         <div className="flex mt-16 items-center justify-between gap-20 md:mt-28 flex-col md:flex ">
           {/* GRAPHIC */}
           <img
-            src={benefitsPageGraphic}
+            src={HomePageGraphic}
             alt="benefits-page-graphic"
             className="mx-auto"
           />

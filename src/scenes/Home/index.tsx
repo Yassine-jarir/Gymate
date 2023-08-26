@@ -2,12 +2,16 @@ import ActionBtn from "@/Shared/ActionBtn";
 import { SelectedPage } from "@/Shared/Types";
 import useMediaQuery from "@/hooks/useMediaquery";
 import HomePageText from "@/assets/HomePageText.png";
-import HomePageGraphic from "@/assets/HomePageGraphic.png";
+
+// import HomePageGraphic from "@/assets/HomePageGraphic.png";
+
 import SponsorRedBull from "@/assets/SponsorRedBull.png";
 import SponsorForbes from "@/assets/SponsorForbes.png";
 import SponsorFortune from "@/assets/SponsorFortune.png";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import { motion } from "framer-motion";
+
+import benefitsPageGraphic from "@/assets/BenefitsPageGraphic.png";
 
 type Props = {
   setSelectedPage: (value: SelectedPage) => void;
@@ -76,8 +80,8 @@ function Home({ setSelectedPage }: Props) {
         </div>
 
         {/*  IMAGE */}
-        <div className="flex basis-3/5 justify-center md:z-10 md:ml-40 md:mt-16 md:justify-end">
-          <img src={HomePageGraphic} alt="home-pagegraphic" />
+        <div className="flex basis-3/5 justify-center md:z-10 md:ml-40 md:mt-16 md:justify-end transform -scale-x-[1]">
+          <img src={benefitsPageGraphic} alt="home-pagegraphic" />
         </div>
       </motion.div>
       {/* SPONSORS */}
