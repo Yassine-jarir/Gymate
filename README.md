@@ -1,25 +1,22 @@
- <h3>EVOGYM</h3> provide a space for people to improve their physical fitness and overall health through regular exercise and physical activity.
-👉 Live Demo :[Ecommerce Demo](https://raouf-ecommerce.vercel.app/)
+ <h3>EVOGYM</h3> provide a space for people to improve their physical fitness and overall health through regular exercise and physical activity. </br>
+ 👉 Live Demo :[Ecommerce Demo](https://raouf-ecommerce.vercel.app/)
 
  <h2>Build with:</h2> 
-» Tailwind CSS
+» Tailwind CSS </br>
 » React JS
+
+
+<h1>Screenshots of the Project 📸</h1>
 
 <div align="center">
  <h3>Home Page 🏡</h3> 
 </div>
 
-![Alt Text](<https://github.com/Yassine-jarir/RAOUF-ECOMMERCE-/blob/main/public/E-commerce%20(1).png?raw=true>)
-![Alt Text](<https://github.com/Yassine-jarir/RAOUF-ECOMMERCE-/blob/main/public/E-commerce%20(2).png?raw=true>)
+![Alt Text](<https://github.com/Yassine-jarir/Gymate/blob/f57c14b7a2aae8ae3ecdba3dc95fa7a04f3bafd7/src/assets/GithubImgs/Vite-React-TS%20(3).png>)
 
-<div align="center">
- <h3>Categories Page  👇</h3> 
-</div>
+![Alt Text](<https://github.com/Yassine-jarir/Gymate/blob/f57c14b7a2aae8ae3ecdba3dc95fa7a04f3bafd7/src/assets/GithubImgs/Vite-React-TS%20(2).png>)
 
-![Alt Text](<https://github.com/Yassine-jarir/RAOUF-ECOMMERCE-/blob/main/public/E-commerce%20(4).png?raw=true>)
+![Alt Text](<https://github.com/Yassine-jarir/Gymate/blob/f57c14b7a2aae8ae3ecdba3dc95fa7a04f3bafd7/src/assets/GithubImgs/Vite-React-TS%20(1).png>)
 
-<div align="center">
- <h3>Shopping Cart🛒</h3> 
-</div>
+![Alt Text](<https://github.com/Yassine-jarir/Gymate/blob/f57c14b7a2aae8ae3ecdba3dc95fa7a04f3bafd7/src/assets/GithubImgs/Vite-React-TS.png>)
 
-![Alt Text](<https://github.com/Yassine-jarir/RAOUF-ECOMMERCE-/blob/main/public/E-commerce%20(5).png?raw=true>)
