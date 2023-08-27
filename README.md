@@ -11,11 +11,6 @@
  <h3>Home Page 🏡</h3> 
 </div>
 
-![Alt Text](<https://github.com/Yassine-jarir/Gymate/blob/f57c14b7a2aae8ae3ecdba3dc95fa7a04f3bafd7/src/assets/GithubImgs/Vite-React-TS%20(3).png>)
+![Alt Text](<https://github.com/Yassine-jarir/Gymate/blob/8d4b8aeedfe4e84a04df3e71679e48f9084caa74/src/assets/GithubImgs/EVOGYM.png>)
 
-![Alt Text](<https://github.com/Yassine-jarir/Gymate/blob/f57c14b7a2aae8ae3ecdba3dc95fa7a04f3bafd7/src/assets/GithubImgs/Vite-React-TS%20(2).png>)
-
-![Alt Text](<https://github.com/Yassine-jarir/Gymate/blob/f57c14b7a2aae8ae3ecdba3dc95fa7a04f3bafd7/src/assets/GithubImgs/Vite-React-TS%20(1).png>)
-
-![Alt Text](<https://github.com/Yassine-jarir/Gymate/blob/f57c14b7a2aae8ae3ecdba3dc95fa7a04f3bafd7/src/assets/GithubImgs/Vite-React-TS.png>)
 
