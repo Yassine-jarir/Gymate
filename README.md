@@ -1,4 +1,4 @@
- <h3>EVOGYM</h3> provide a space for people to improve their physical fitness and overall health through regular exercise and physical activity.</br>
+ <h3>EVOGYM</h3> provide a space for people to improve their physical fitness and overall health through regular exercise and physical activity. </br>
 
  <h2>Build with:</h2> 
 » Tailwind CSS </br>
