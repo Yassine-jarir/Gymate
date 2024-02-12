@@ -11,7 +11,7 @@ type Props = {
   setSelectedPage: (value: SelectedPage) => void;
   isTopPage: boolean;
 };
-// dddd
+// dddd d
 const Navbar = ({ isTopPage, selectedPage, setSelectedPage }: Props) => {
   const flexBetween = "flex items-center justify-between";
   const isaboveMediumscreens = useMediaQuery("(min-width:1060px)");
